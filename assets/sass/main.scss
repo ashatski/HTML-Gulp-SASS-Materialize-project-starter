@@ -1,0 +1,32 @@
+/* Your styles (and Sass) start here */
+
+/*** Example styles ***/
+
+.top-nav {
+	margin-bottom: 60px;
+}
+
+.home-header {
+	margin-bottom: 60px;
+}
+
+.card-banner .card-image .card-title {
+	position: absolute;
+	top: 50%;
+	right: 0;
+	bottom: auto;
+	left: auto;
+	margin-top: -36px;
+}
+
+// Listing Cards of Recepts
+.recipe-card .card-title {
+	display: block;
+}
+
+.card-tag {
+	display: inline-block;
+	color: #fff;
+	padding: 0px 8px;
+	font-size: 12px;
+}
